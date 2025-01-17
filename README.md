@@ -6,7 +6,7 @@ The repositry includes the following:
 -Soft copy of the poster 
 -Pictures 
 -YouTube URL
-- Presentation
+-Presentation
 
 
 
